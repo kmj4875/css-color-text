@@ -15,7 +15,9 @@ html {
 /**
  * Remove default margin.
  */
-
+.boxed {
+  border: 1px transparent ;
+}
 body {
   margin: 0;
 }
