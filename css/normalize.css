@@ -87,7 +87,7 @@ template {
  */
 
 a {
-  background-color: #CFCFCF;
+  background-color:transparent;
 }
 
 /**
@@ -142,7 +142,7 @@ h1 {
  */
 
 mark {
-  background: #ff0;
+  background:  #CFCFCF;
   color: #000;
 }
 
